@@ -1,2 +1,4 @@
 # gith-demo-yo
-random demonstration on using git/github
+demonstration of resolving conflicts using git/github
+
+Hey guys! Welcome to the live session
